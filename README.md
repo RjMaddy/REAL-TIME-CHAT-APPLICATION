@@ -27,3 +27,4 @@ After successful development and testing, the application was pushed to GitHub u
 This chat application can be used as a base model for:
 
 Team collaboration tools Customer support chat systems Classroom discussion apps Group messaging within any web-based system It showcases practical implementation of core real-time communication concepts, responsive UI development using React, and fundamental backend setup using Node.js. OUTPUT
+![Image](https://github.com/user-attachments/assets/76b1d02b-2fcd-448e-a5dd-63750cff19a1)
